@@ -9,6 +9,10 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 -:mailbox: Contact information: [![Telegram Badge](https://img.shields.io/badge/-natallia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/natalliaFR) [![Yahoomail Badge](https://img.shields.io/badge/-Yahoomail-purple?style=flat&logo=Yahoomail&logoColor=white)](mailto:nataliafosher@yahoo.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natallia-fosher-4b0a9514b/)
 
 ---
+### CV:
+ - [Резюме](https://github.com/NFRabbit/NFRabbit/blob/main/My%20Resume%20(21).pdf)
+
+---
 
 ### Certificates:
  - Data Scientist Professional Training Course [RUS](https://github.com/NFRabbit/NFRabbit/blob/main/%D0%A4%D0%BE%D1%88%D0%B5%D1%80%20%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BD%D0%B0_20232DS00284.pdf)/[EN](https://github.com/NFRabbit/NFRabbit/blob/main/Natallia%20Fosher_20232DS00284.pdf)
