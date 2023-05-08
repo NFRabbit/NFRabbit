@@ -10,7 +10,7 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 
 ---
 ### CV:
- - [![CV](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)](https://github.com/NFRabbit/NFRabbit/blob/main/My%20Resume%20(21).pdf)
+ - [![CV](https://img.shields.io/static/v1?label=<CV>&color=<blue>)](https://github.com/NFRabbit/NFRabbit/blob/main/My%20Resume%20(21).pdf)
 
 ---
 
