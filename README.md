@@ -11,7 +11,7 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 ---
 
 ### Certificates:
- - Data Scientist Professional Training Course [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/Stuksus/Stuksus/blob/main/certificate_en.pdf)
+ - Data Scientist Professional Training Course [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/NFRabbit/NFRabbit/blob/main/Natallia%20Fosher_20232DS00284.pdf)
 
 ---
 ### Languages and Tools: 
