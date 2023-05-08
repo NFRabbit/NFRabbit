@@ -112,7 +112,7 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 ### ⚙️ GitHub статистика:
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NFRabbit)](https://github.com/NFRabbit/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NFRabbit&show_icons=true)](https://github.com/NFRabbit/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NFRabbit)
 
