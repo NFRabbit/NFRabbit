@@ -14,7 +14,7 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
  - Data Scientist Professional Training Course [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/Stuksus/Stuksus/blob/main/certificate_en.pdf)
 
 ---
-### Skills 
+### Languages and Tools: 
 <table><tr><td valign="top" width="33%">
  
 <div align="center">  
