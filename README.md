@@ -82,7 +82,7 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 </tr> 
  
 <tr>
-  <td><a href = "https://github.com/Stuksus/HW6_ML1_Biase_Variance_Decomposition"> Telecom - Customer Retention Forecasting for Niedinogorazryva.com</a></td>
+  <td><a href = "https://github.com/NFRabbit/Telecom-"> Telecom - Customer Retention Forecasting for Niedinogorazryva.com</a></td>
   <td>Practicum by Yandex 1</td>
   <td>The Telecom project aims to predict customer churn for "Niyeдиногоразрыва.com" and retain them with promotions. The operator offers fixed-line telephone and internet services, as well as additional services. Data includes contract and personal information, and internet and telephone service details. The project uses this data to identify customers who are likely to leave.</td>
   <td>Completed</td>
