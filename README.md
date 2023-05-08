@@ -109,10 +109,18 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 |practicum.yandex/Data Scientist Professional Training Course     |  Completed  |
 
 --- 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub Statistics:
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NFRabbit&show_icons=true&theme=radical)](https://github.com/NFRabbit/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NFRabbit&show_icons=true&theme=dark)](https://github.com/NFRabbit/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NFRabbit)
+
+---
+
+### Most used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NFRabbit&hide_progress=true)](https://github.com/NFRabbit/github-readme-stats)
+
+
 
