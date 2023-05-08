@@ -47,7 +47,7 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/Stuksus/Data-preparation-for-credit-scoring">Исследование надёжности заёмщиков</a></td>
+  <td><a href = "https://github.com/Stuksus/Data-preparation-for-credit-scoring"> Исследование надёжности заёмщиков</a></td>
   <td>Practicum by Yandex</td>
   <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
   <td>Завершен</td>
@@ -82,18 +82,13 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 </tr> 
  
 <tr>
-  <td><a href = "https://github.com/Stuksus/HW6_ML1_Biase_Variance_Decomposition">Оценка моделей на основе BVD (Biase Variance Decomposition)</a></td>
-  <td>Машинное обучение 1</td>
-  <td>В этом проекте предстоит воспользоваться возможностями бутстрапа для оценки смещения и разброса алгоритмов машинного обучения</td>
-  <td>Завершен</td>
+  <td><a href = "https://github.com/Stuksus/HW6_ML1_Biase_Variance_Decomposition"> Telecom - Customer Retention Forecasting for Niedinogorazryva.com</a></td>
+  <td>Practicum by Yandex 1</td>
+  <td>The Telecom project aims to predict customer churn for "Niyeдиногоразрыва.com" and retain them with promotions. The operator offers fixed-line telephone and internet services, as well as additional services. Data includes contract and personal information, and internet and telephone service details. The project uses this data to identify customers who are likely to leave.</td>
+  <td>Completed</td>
 </tr> 
 
-<tr>
-  <td><a href = "https://github.com/Stuksus/HW2_ML1_Linear_Regression">Анализ и выделеление дополнительной информации из данных</a></td>
-  <td>Машинное обучение 1</td>
-  <td>В этом задании анализируем данные и выделяем из них полезные признаки. Так же работаю с координатами и деление карты на сектора</td>
-  <td>Завершен</td>
-</tr> 
+
  
 </table>
 </details>
