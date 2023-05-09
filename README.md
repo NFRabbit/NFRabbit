@@ -18,7 +18,7 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 
 ### Certificates:
  - Data Scientist Professional Training Course [RUS](https://github.com/NFRabbit/NFRabbit/blob/main/%D0%A4%D0%BE%D1%88%D0%B5%D1%80%20%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BD%D0%B0_20232DS00284.pdf)/[EN](https://github.com/NFRabbit/NFRabbit/blob/main/Natallia%20Fosher_20232DS00284.pdf)
-
+ - Innovate2030 – SDG13 Program [![Ekipa](https://img.shields.io/badge/Ekipa-orange)](https://github.com/NFRabbit/NFRabbit/blob/main/1683646073133.pdf)
 ---
 ### Languages and Tools: 
 <div align="center">
@@ -50,33 +50,7 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
   <th>Project Status</th>
 </tr> 
   
-<tr>
-  <td><a href = "  "> Исследование надёжности заёмщиков</a></td>
-  <td>Practicum by Yandex</td>
-  <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
-  <td>Завершен</td>
-</tr>
 
-<tr>
-  <td><a href = "  ">Исследование объявлений о продаже квартир</a></td>
-  <td>Practicum by Yandex</td>
-  <td>В моем распоряжении данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости</td>
-  <td>Завершен</td>
-</tr>
-
-<tr>
-  <td><a href = "  ">Определение перспективного тарифа для телеком компании</a></td>
-  <td>Practicum by Yandex</td>
-  <td>Клиентам предлагают два тарифных плана. Мне предстоит сделать предварительный анализ тарифов на небольшой выборке клиентов, чтобы скорректировать рекламный бюджет</td>
-  <td>Завершен</td>
-</tr>
-
-<tr>
-  <td><a href = "  ">Прогноз продаж в интернет-магазине</a></td>
-  <td>Practicum by Yandex</td>
-  <td>На основании доступных данных о продажи игр мне нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании</td>
-  <td>Завершен</td>
-</tr>
  
 <tr>
   <td><a href = "https://github.com/NFRabbit/Project_for_Wikishop ">Project for "Wikishop"</a></td>
