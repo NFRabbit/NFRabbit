@@ -79,10 +79,10 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 </tr>
  
 <tr>
-  <td><a href = " ">Работа с библиотеками по обработке данных</a></td>
-  <td>Машинное обучение 1</td>
-  <td>В первом разделе необходимо выполнить базовые задания с помощью указанных библиотек, а во втором распределить студентов по специализациям, основываясь на их перцентиль</td>
-  <td>Завершен</td>
+  <td><a href = "https://github.com/NFRabbit/Project_for_Wikishop ">Project for "Wikishop"</a></td>
+  <td>Practicum by Yandex 1</td>
+  <td> The goal is to detect toxic comments and send them for moderation in an online store with a new feature that allows users to edit and supplement product descriptions, similar to a wiki.</td>
+  <td>Completed</td>
 </tr> 
  
 <tr>
