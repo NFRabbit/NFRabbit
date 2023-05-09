@@ -92,7 +92,12 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
   <td>Completed</td>
 </tr> 
 
-
+<tr>
+  <td><a href = "https://github.com/NFRabbit/Taxi-orders-forecasting"> Taxi orders forecasting</a></td>
+  <td>Practicum by Yandex </td>
+  <td>In order to attract additional drivers during peak demand, it is important to create a prediction model that can forecast the expected number of taxi orders for the next hour.</td>
+  <td>Completed</td>
+</tr> 
  
 </table>
 </details>
