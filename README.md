@@ -1,3 +1,5 @@
+
+
 ## Natallia Fosher
 
 ---
@@ -77,20 +79,25 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 </tr>
  
 <tr>
-  <td><a href = " ">Работа с библиотеками по обработке данных</a></td>
-  <td>Машинное обучение 1</td>
-  <td>В первом разделе необходимо выполнить базовые задания с помощью указанных библиотек, а во втором распределить студентов по специализациям, основываясь на их перцентиль</td>
-  <td>Завершен</td>
+  <td><a href = "https://github.com/NFRabbit/Project_for_Wikishop ">Project for "Wikishop"</a></td>
+  <td>Practicum by Yandex </td>
+  <td> The goal is to detect toxic comments and send them for moderation in an online store with a new feature that allows users to edit and supplement product descriptions, similar to a wiki.</td>
+  <td>Completed</td>
 </tr> 
  
 <tr>
   <td><a href = "https://github.com/NFRabbit/Telecom-"> Telecom - Customer Retention Forecasting for Niedinogorazryva.com</a></td>
-  <td>Practicum by Yandex 1</td>
+  <td>Practicum by Yandex </td>
   <td>The Telecom project aims to predict customer churn for "Niyeдиногоразрыва.com" and retain them with promotions. The operator offers fixed-line telephone and internet services, as well as additional services. Data includes contract and personal information, and internet and telephone service details. The project uses this data to identify customers who are likely to leave.</td>
   <td>Completed</td>
 </tr> 
 
-
+<tr>
+  <td><a href = "https://github.com/NFRabbit/Taxi-orders-forecasting"> Taxi orders forecasting</a></td>
+  <td>Practicum by Yandex </td>
+  <td>In order to attract additional drivers during peak demand, it is important to create a prediction model that can forecast the expected number of taxi orders for the next hour.</td>
+  <td>Completed</td>
+</tr> 
  
 </table>
 </details>
@@ -107,9 +114,18 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 |practicum.yandex/Data Scientist Professional Training Course     |  Completed  |
 
 --- 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub Statistics:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=NFRabbit&show_icons=true&&hide=issues,contribs)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NFRabbit&show_icons=true&theme=dark)](https://github.com/NFRabbit/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NFRabbit)
+
+---
+
+### Most used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NFRabbit&hide_progress=true)](https://github.com/NFRabbit/github-readme-stats)
+
+
 
