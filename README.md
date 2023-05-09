@@ -80,14 +80,14 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
  
 <tr>
   <td><a href = "https://github.com/NFRabbit/Project_for_Wikishop ">Project for "Wikishop"</a></td>
-  <td>Practicum by Yandex 1</td>
+  <td>Practicum by Yandex </td>
   <td> The goal is to detect toxic comments and send them for moderation in an online store with a new feature that allows users to edit and supplement product descriptions, similar to a wiki.</td>
   <td>Completed</td>
 </tr> 
  
 <tr>
   <td><a href = "https://github.com/NFRabbit/Telecom-"> Telecom - Customer Retention Forecasting for Niedinogorazryva.com</a></td>
-  <td>Practicum by Yandex 1</td>
+  <td>Practicum by Yandex </td>
   <td>The Telecom project aims to predict customer churn for "Niyeдиногоразрыва.com" and retain them with promotions. The operator offers fixed-line telephone and internet services, as well as additional services. Data includes contract and personal information, and internet and telephone service details. The project uses this data to identify customers who are likely to leave.</td>
   <td>Completed</td>
 </tr> 
