@@ -105,6 +105,7 @@ Next, we multiplied the feature matrix by itself to create a random invertible m
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=NFRabbit&show_icons=true&theme=dark)](https://github.com/NFRabbit/github-readme-stats)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NFRabbit)
 
 ---
 
