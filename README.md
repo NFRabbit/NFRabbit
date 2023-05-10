@@ -77,6 +77,13 @@ Next, we multiplied the feature matrix by itself to create a random invertible m
   <td>Completed</td>
 </tr> 
  
+ <tr>
+  <td><a href = "https://github.com/NFRabbit/Recovery-of-gold-from-Ore."> Recovery of gold from ore
+</a></td>
+  <td>Practicum by Yandex </td>
+  <td>we need to prepare a prototype of a machine learning model for "Цифра". The company develops solutions for efficient operation of industrial enterprises. The model should predict the gold recovery rate from gold-bearing ore.</td>
+  <td>Completed</td>
+</tr> 
 </table>
 </details>
 
