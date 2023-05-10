@@ -51,6 +51,14 @@ As an aspiring data scientist, I am eager to apply my knowledge and skills to ta
 </tr> 
   
 
+ <tr>
+  <td><a href = "https://github.com/NFRabbit/Protection-of-personal-data-of-clients">Protection of personal data of clients"</a></td>
+  <td>Practicum by Yandex </td>
+  <td> We trained a linear regression model on insurance data to predict insurance payouts using features such as age, sex, BMI, and number of children. We then tested the model's accuracy using the coefficient of determination (R^2) metric.
+
+Next, we multiplied the feature matrix by itself to create a random invertible matrix and trained a new model using the transformed feature matrix to check if the model's accuracy was affected by the transformation. We used the same R^2 metric to evaluate the new model's accuracy.</td>
+  <td>Completed</td>
+</tr> 
  
 <tr>
   <td><a href = "https://github.com/NFRabbit/Project_for_Wikishop ">Project for "Wikishop"</a></td>
