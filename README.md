@@ -9,7 +9,7 @@
 
 As an aspiring data scientist, I am eager to apply my knowledge and skills to tackle challenging projects. I possess a solid understanding of key data science concepts and techniques, including data wrangling, exploratory data analysis, statistical modeling, and machine learning. I am highly motivated to continuously learn and improve my skills, and I am committed to delivering high-quality results that meet the needs of businesses and organizations.
 
--:mailbox: Contact information: [[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natallia-fosher-4b0a9514b/)
+-:mailbox: Contact information: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natallia-fosher-4b0a9514b/)
 
 ---
 
